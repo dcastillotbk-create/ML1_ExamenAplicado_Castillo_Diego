@@ -1,0 +1,4 @@
+,RMSE,MAE,R2,MAPE,R2_train,brecha_sobreajuste,tiempo_entrenamiento_s
+GradientBoosting,0.472,0.3134,0.83,18.2099,0.9027,0.0727,321.3679
+RandomForest,0.5036,0.3274,0.8064,18.9716,0.9742,0.1678,1041.0836
+Ridge,0.6675,0.4881,0.66,29.6185,0.6775,0.0175,0.2188
